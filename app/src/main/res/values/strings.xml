@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="fp_underline"><u>Forget password</u></string>
+    <string name="su_underline"><u>Sign up</u></string>
+</resources>
